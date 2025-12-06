@@ -1,3 +1,6 @@
 [submodule "adventOfCode2025"]
 	path = adventOfCode2025
 	url = https://github.com/jdveen04-cmd/AdventOfCode2025.git
+[submodule "adventOfCode2024"]
+	path = adventOfCode2024
+	url = https://github.com/jdveen04-cmd/adventOfCode2024.git
