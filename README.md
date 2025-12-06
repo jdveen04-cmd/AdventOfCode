@@ -1,2 +1,4 @@
 # AdventOfCode
-Repository to store all sub repositories in
+Welcome to my adventOfCode Repository,
+Here I store all my other adventOfCode repositories as submodules
+Makes it easier to navigate :)
